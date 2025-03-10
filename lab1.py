@@ -1,5 +1,4 @@
 import math
-from collections.abc import async_generator
 
 radius = 5
 area_of_circle = math.pi * radius ** 2
